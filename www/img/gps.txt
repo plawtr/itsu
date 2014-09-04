@@ -1,0 +1,204 @@
+
+Aldgate
+77 Aldgate High Street
+London, EC3N 1BD
+51.513809,-0.075476
+
+Baker Street
+Unit1, 15 Baker Street
+London, W1U 8EG
+51.517489,-0.155407
+
+Bankside
+The Harlequin Building, 65 Southwark St
+London, SE1 0HR
+51.5050073,-0.0976345
+
+Berkeley Square
+Unit 4, Lansdowne House, 55 Berkeley Square
+London, W1J 6ER
+51.5087591,-0.1447029
+
+Bishopsgate (Broadgate Arcade)
+10-11 Broadgate Arcade, 155 Bishopsgate
+London, EC2M 3TQ
+51.5183215,-0.0843028
+
+Bishopsgate [2]
+55 Bishopsgate
+London, EC2N 3AS
+51.5154341,-0.0829891
+
+Brighton
+68-70 North Street, East Sussex
+Brighton, UK, BN1
+50.8234628,-0.1434566
+
+Broadwick Street
+31 Broadwick Street, Soho
+London, United kingdom , W1F 0DG
+
+Brunswick
+Unit 16, The Brunswick Centre, Bloomsbury
+London, WC1N 1AF
+
+Cabot Place
+Level 2, Cabot Place East, Canary Wharf
+London, E14 4QT
+
+Canada Place (Deli 1)
+Canada Place Mall, Canary Wharf
+London, E14 5NY
+
+Canada Place (Deli 2)
+Canada Place Mall, Canary Wharf
+London, E14 5EQ
+
+Cannon Street (Mansion House)
+30 - 40 Cannon Street
+London, EC4N 6JD
+
+Chancery Lane
+19 Holborn
+London, UK, EC1N 2JD
+
+Cheapside
+Unit A, 107 Cheapside
+London, EC2V 6DN
+
+Copthall Avenue
+2 Copthall Avenue
+London, EC2R 7DA
+
+Cowcross
+9-13 Cowcross Street, Farringdon
+London, UK, EC1M 6DR
+
+Eastcastle Street
+40 Eastcastle Street
+London, W1W 8DT
+
+Fleet Street
+130 Fleet Street
+London, EC4A 2BH
+
+Gracechurch Street
+21 Gracechurch Street
+London, EC3V 0BG
+
+Great Eastern Street
+49 - 51 Great Eastern Street
+London, EC2A 3HP
+
+Great Peter Street
+16 Great Peter Street
+London, SW1P 2BX
+
+Grosvenor
+4 Grosvenor Street
+London, W1K4PZ
+
+Hanover Square
+Vogue House, 1 Hanover Square, Mayfair
+London, W1S 1HA
+
+High Holborn
+236 High Holborn
+London, WC1V 7DN
+
+Islington
+Unit 2, N1 Centre, 21 Parkfield Street, Islington
+London, N1 0PS
+ 
+Jubilee Place
+28a Bank Street
+London, E14 5NY
+
+King William Street (Monument)
+18 King William Street
+London, EC4N 7BP
+
+Lime Street
+Willis Building, 51 Lime Street
+London, EC3M 7DQ
+
+Ludgate Hill
+38-40 Ludgate Hill
+London, EC4M 7DE
+
+More London (London Bridge)
+7 More London
+London, SE1 2TU
+
+New Oxford Street
+74 New Oxford Street
+London, WC1A 1EU
+
+Old Broad Street
+57 Old Broad Street, Liverpool Street
+London, EC2M 1RX
+
+Oxford
+36 Cornmarket Street
+Oxford, OX13EZ
+
+Paddington
+Unit 9, Sheldon Square, Paddington Central
+London, W2 6EZ
+
+Paternoster Square
+4-6 Paternoster Row
+London, EC4M 7EJ
+
+Piccadilly
+167 Piccadilly
+London, W1J 9EG
+
+Regent's Place (Hampstead Road)
+15-20 Hampstead Road
+London, United Kingdom, NW1 3JA
+
+Richmond
+39 George St, Richmond
+Surrey, TW9 1HY
+
+Sackville Street
+27 Sackville Street
+London, W1S 3DT
+
+Saint Mary Axe
+25 St Mary Axe
+London, EC3A 8AA
+
+Spital Square
+Unit 1, 30 Spital Square, Spitalfields Estate
+London, E1 6DX
+
+Strand
+82 - 83 The Strand
+London, WC2R 0RE
+
+Tottenham Court Road
+Unit 4, The Qube, 103 Tottenham Court Road
+London, W1T 4EZ
+
+Tottenham Court Road [2]
+53 - 54 Tottenham Court Road, Bloomsbury
+London, W1T 2EQ
+
+Upper Regent Street
+313 Regent Street
+London, W1B 2HP
+
+Victoria
+163 Victoria Street
+London, SW1E 5NA
+
+itsu [dining] Chelsea 
+118 Draycott Avenue, Chelsea
+London, SW3 3AE
+
+itsu [dining] Notting Hill
+100 Notting Hill Gate
+London, W11 3QA
+ 

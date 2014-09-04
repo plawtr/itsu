@@ -1,0 +1,44 @@
+<ion-view title="loyalty">
+
+  <ion-nav-bar class="bar-balanced">  
+    <img class="title-image"> 
+  </ion-nav-bar>
+
+  <ion-content class="has-header">    
+    <ion-slide-box on-slide-changed="slideHasChanged($index)">
+      <ion-slide>
+        <div class="list card">
+          <div class="item item-avatar">
+            <img src="img/itsu-logo66x66.png">
+            <h2>Loyalty Card</h2>
+            <p>Track and redeem your loyalty</p>
+          </div>
+        <div class="item item-image">
+          <img src="img/loyalty-card.png">
+        </div>
+        <a class="item item-icon-left balanced" href="#" ng-click="getLoyalty()">
+          <i class="icon ion-ios7-plus"></i>
+          Get it for your Passbook
+        </a>
+        </div>
+      </ion-slide>
+
+      <ion-slide>
+        <div class="list card">
+          <div class="item item-avatar">
+            <img src="img/itsu-logo66x66.png">
+            <h2>Coupon</h2>
+            <p>Discounts taylored to you</p>
+          </div>
+        <div class="item item-image">
+          <img src="img/coupon.png">
+        </div>
+        <a class="item item-icon-left balanced" href="#" ng-click="getCoupon()">
+          <i class="icon ion-ios7-plus"></i>
+          Get it for your Passbook
+        </a>
+        </div>
+      </ion-slide>
+    </ion-slide-box>
+  </ion-content>
+</ion-view>
