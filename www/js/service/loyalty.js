@@ -17,18 +17,18 @@ angular.module('starter.services')
   }
 
   function getLoyaltyCard(error) {
-      Passbook.downloadPass('https://d.pslot.io/cQY2f', onSuccess, onError);
+      Passbook.downloadPass('https://d.pslot.io/p/58hHOZnnSQGEL903A8Pjzg?t=Am_3F-g', onSuccess, onError);
   }
 
   function getCoupon(error) {
-      Passbook.downloadPass('https://d.pslot.io/cQY2f', onSuccess, onError);
+      Passbook.downloadPass('https://d.pslot.io/p/ghViNL_VSZuI7Jhn9oLSaw?t=ykf02I0', onSuccess, onError);
   }
 
   return {
-    loyaltyCard: function() {
+    getCard: function() {
       return getLoyaltyCard("loyalty card not available");
     },
-    coupon: function() {
+    getCoupon: function() {
       return getCoupon("coupon not available");
     }
   }
