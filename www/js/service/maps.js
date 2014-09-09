@@ -486,7 +486,7 @@ angular.module('starter.services')
     function publishResultsIntoMap(locationData) {
         
         var map = new google.maps.Map(document.getElementById("map"), myOptions);
-        var image = 'img/itsu-logo66x66.png';
+        var image = 'img/map_marker.png';
 
         var marker = new google.maps.Marker({
             position: incidentLocation,
