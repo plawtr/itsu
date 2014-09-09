@@ -23,13 +23,13 @@ angular.module('starter.services')
     },
     { id: 2, 
       name: 'Bankside', 
-      address: 'The Harlequin Building, 65 Southwark St ',
+      address: '65 Southwark St ',
       address2: 'London, SE1 0HR',
       date: 'September 5, 2014' 
     },
     { id: 3, 
       name: 'Bishopsgate (Broadgate)',  
-      address: '10-11 Broadgate Arcade, 155 Bishopsgate',
+      address: '10-11 Broadgate Arcade',
       address2: 'London, EC2M 3TQ',
       date: 'September 9, 2014' 
     }

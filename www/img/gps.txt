@@ -2,141 +2,178 @@
 Aldgate
 77 Aldgate High Street
 London, EC3N 1BD
-51.513809,-0.075476
+51.513809,
+-0.075476
 
 Baker Street
-Unit1, 15 Baker Street
+Unit 1, 15 Baker Street
 London, W1U 8EG
-51.517489,-0.155407
+51.517489,
+-0.155407
 
 Bankside
 The Harlequin Building, 65 Southwark St
 London, SE1 0HR
-51.5050073,-0.0976345
+51.5050073,
+-0.0976345 
 
 Berkeley Square
 Unit 4, Lansdowne House, 55 Berkeley Square
 London, W1J 6ER
-51.5087591,-0.1447029
+51.5087591,
+-0.1447029
 
 Bishopsgate (Broadgate Arcade)
 10-11 Broadgate Arcade, 155 Bishopsgate
 London, EC2M 3TQ
-51.5183215,-0.0843028
+51.5183215,
+-0.0843028
 
 Bishopsgate [2]
 55 Bishopsgate
 London, EC2N 3AS
-51.5154341,-0.0829891
+51.5154341,
+-0.0829891
 
 Brighton
 68-70 North Street, East Sussex
 Brighton, UK, BN1
-50.8234628,-0.1434566
+50.8234628,
+-0.1434566
 
 Broadwick Street
 31 Broadwick Street, Soho
-London, United kingdom , W1F 0DG
+London, W1F 0DG
+51.513500,
+-0.136187
 
 Brunswick
 Unit 16, The Brunswick Centre, Bloomsbury
 London, WC1N 1AF
+51.5248459,
+-0.1239382
 
 Cabot Place
 Level 2, Cabot Place East, Canary Wharf
 London, E14 4QT
+51.5051802,
+-0.0216597
 
 Canada Place (Deli 1)
 Canada Place Mall, Canary Wharf
 London, E14 5NY
+51.5030781,
+-0.0185951
 
 Canada Place (Deli 2)
 Canada Place Mall, Canary Wharf
 London, E14 5EQ
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5046219,-0.0162947&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5046219,-0.0162947
 
 Cannon Street (Mansion House)
 30 - 40 Cannon Street
 London, EC4N 6JD
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.512459,-0.093742&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.512459,-0.093742
 
 Chancery Lane
 19 Holborn
-London, UK, EC1N 2JD
+London, EC1N 2JD
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.518260,-0.109828&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.518260,-0.109828
 
 Cheapside
 Unit A, 107 Cheapside
 London, EC2V 6DN
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.514113,-0.094139&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.514113,-0.094139
 
 Copthall Avenue
 2 Copthall Avenue
 London, EC2R 7DA
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.515647,-0.087827&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.515647,-0.087827
 
 Cowcross
 9-13 Cowcross Street, Farringdon
-London, UK, EC1M 6DR
+London, EC1M 6DR
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.520096,-0.102703&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.520096,-0.102703
 
 Eastcastle Street
 40 Eastcastle Street
 London, W1W 8DT
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5165947,-0.1394255&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5165947,-0.1394255
 
 Fleet Street
 130 Fleet Street
 London, EC4A 2BH
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5143942,-0.1064386&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5143942,-0.1064386
 
 Gracechurch Street
 21 Gracechurch Street
 London, EC3V 0BG
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5126351,-0.0846663&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5126351,-0.0846663
 
 Great Eastern Street
 49 - 51 Great Eastern Street
 London, EC2A 3HP
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5244744,-0.0807117&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5244744,-0.0807117
 
 Great Peter Street
 16 Great Peter Street
 London, SW1P 2BX
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.4970531,-0.1297619&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.4970531,-0.1297619
 
 Grosvenor
 4 Grosvenor Street
 London, W1K4PZ
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5122474,-0.1454249&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5122474,-0.1454249
 
 Hanover Square
 Vogue House, 1 Hanover Square, Mayfair
 London, W1S 1HA
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5133884,-0.1430871&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5133884,-0.1430871
 
 High Holborn
 236 High Holborn
 London, WC1V 7DN
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.51764,-0.119161&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.51764,-0.119161
 
 Islington
 Unit 2, N1 Centre, 21 Parkfield Street, Islington
 London, N1 0PS
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.534148,-0.105451&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.534148,-0.105451
  
 Jubilee Place
 28a Bank Street
 London, E14 5NY
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5030274,-0.0200032&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5030274,-0.0200032
 
 King William Street (Monument)
 18 King William Street
 London, EC4N 7BP
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5112531,-0.0874304&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5112531,-0.0874304
 
 Lime Street
 Willis Building, 51 Lime Street
 London, EC3M 7DQ
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.512949,-0.082022&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.512949,-0.082022
 
 Ludgate Hill
 38-40 Ludgate Hill
 London, EC4M 7DE
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.5140738,-0.1016381&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.5140738,-0.1016381
 
 More London (London Bridge)
 7 More London
 London, SE1 2TU
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.504723,-0.080928&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.504723,-0.080928
 
 New Oxford Street
 74 New Oxford Street
 London, WC1A 1EU
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.517015,-0.127618&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.517015,-0.127618
 
 Old Broad Street
 57 Old Broad Street, Liverpool Street
 London, EC2M 1RX
+https://maps.google.com/maps/api/staticmap?scale=2&size=315x200&key=AIzaSyCDSryU1wMwY58NxzJpiEan--OXDDrj4zU&center=51.516643,-0.083227&zoom=15&sensor=false&maptype=roadmap&format=png32&markers=color:blue|label:x|icon:http://www.itsu.com/images/mobile/map_marker.png|51.516643,-0.083227
 
 Oxford
 36 Cornmarket Street
