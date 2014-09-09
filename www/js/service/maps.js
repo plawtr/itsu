@@ -20,6 +20,19 @@ var mapStyle = [
 
 var mapData = {};
 
+var itsuData = [
+    {
+        "lat": 37.752986,
+        "lng": -122.403112
+    },
+
+    {
+        "lat": 37.752386,
+        "lng": -122.403912
+    }
+
+];
+
 
 angular.module('starter.services')
 
@@ -57,25 +70,29 @@ angular.module('starter.services')
 
 
     function getHeatMapResults() {
-        return $http.get('http://mapster-panickster.herokuapp.com/heatmap', {params: currentLoc})
-            .then(function (res) {
-                return res.data.result
-            }, function(error){
-                var alertPopup = $ionicPopup.alert({
-                    title: 'Something went wrong while retrieving the location data',
-                    subTitle: 'Displaying map only',
-                    buttons: [
-                        {
-                            text: 'OK' ,
-                            type: 'button-positive button-outline'
-                        }
-                    ]
-                });
 
-                return alertPopup.then(function (res) {
-                   return [];
-                });
-            });
+        return itsuData
+
+        // return $http.get('http://mapster-panickster.herokuapp.com/heatmap', {params: currentLoc})
+        //     .then(function (res) {
+        //         console.log(res.data.result);
+        //         return res.data.result
+        //     }, function(error){
+        //         var alertPopup = $ionicPopup.alert({
+        //             title: 'Something went wrong while retrieving the location data',
+        //             subTitle: 'Displaying map only',
+        //             buttons: [
+        //                 {
+        //                     text: 'OK' ,
+        //                     type: 'button-positive button-outline'
+        //                 }
+        //             ]
+        //         });
+
+        //         return alertPopup.then(function (res) {
+        //            return [];
+        //         });
+        //     });
     }
 
     function processIncidentData(res) {
@@ -86,8 +103,13 @@ angular.module('starter.services')
         return incidentData;
     }
 
+
+
     function publishResultsIntoMap(incidentData) {
+        
         var map = new google.maps.Map(document.getElementById("map"), myOptions);
+        var image = 'img/itsu-logo66x66.png';
+
         var marker = new google.maps.Marker({
             position: incidentLocation,
             draggable: true,
@@ -102,13 +124,20 @@ angular.module('starter.services')
 
             console.log('Current Location Updated', currentLoc);
         });
-        var pointArray = new google.maps.MVCArray(incidentData);
+        // var pointArray = new google.maps.MVCArray(incidentData);
 
-        var heatmap = new google.maps.visualization.HeatmapLayer({
-            data: pointArray
+        // var heatmap = new google.maps.visualization.HeatmapLayer({
+        //     data: pointArray
+        // });
+
+        // heatmap.setMap(map);
+        angular.forEach(incidentData, function (val) {
+            new google.maps.Marker({
+            position: val,
+            map: map,
+            icon: image
+            });
         });
-
-        heatmap.setMap(map);
     }
 
     return {

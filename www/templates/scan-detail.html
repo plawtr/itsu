@@ -11,5 +11,20 @@
     </ion-nav-back-button>
   </ion-nav-bar>
   <ion-content has-header="true" padding="true">
+    <div class="list card">
+      <div class="item item-avatar">
+        <img src="img/itsu-logo66x66.png">
+        <h2>{{receipt.address}}</h2>
+        <h2>{{receipt.address2}}</h2>
+        <p>visited: <span>{{receipt.date}}</span></p>
+      </div>
+ <!--      <div class="item">
+        <h1> </h1>
+      </div> -->
+      <div class="item item-icon-left balanced">
+        <i class="icon ion-ios7-information-outline"></i>
+        thank you!
+      </div>
+    </div>
   </ion-content>
 </ion-view>

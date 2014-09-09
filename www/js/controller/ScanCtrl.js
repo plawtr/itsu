@@ -6,5 +6,6 @@ angular.module('starter.controllers')
 
   $scope.scanReceipt = function () {
       Receipts.scan();
+      
   }
 });

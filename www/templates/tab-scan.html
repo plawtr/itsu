@@ -17,6 +17,9 @@
       </div>
       <ion-item ng-repeat="receipt in receipts" type="item-text-wrap" href="#/tab/scan/{{receipt.id}}">
         {{receipt.name}}
+          <span class="item-note">
+            {{receipt.date}}
+          </span>      
       </ion-item>
     </ion-list>
   </ion-content>
